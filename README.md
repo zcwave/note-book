@@ -1,8 +1,8 @@
 # note-book
 
+故事该怎么说呢？
 
-
-## Link ? context ?
+## 目录
 
 
 ### 计算机组成原理
@@ -13,3 +13,30 @@
 4. [ch4a 指令系统](Notebook/计算机组成原理/PDF/ch4a%20指令系统MIPS.pdf)
 5. [ch4b 指令系统](Notebook/计算机组成原理/PDF/ch4b%20指令系统X86.pdf)
 6. TODO: [ch5 Memory Hierarchy]()
+
+### C++语言学习
+
+常用参考网站:
+
+- [https://en.cppreference.com/w/](https://en.cppreference.com/w/)
+
+1. [Fundmental](Notebook/CS106B/Fundamentals/PDF/)
+2. TODO: [STL and Algorithm](Notebook/CS106B/STL&Algorithm/PDF/)
+3. TODO: [RAII and SmartPointer]()
+4. TODO: [Threading]()
+
+### 操作系统
+
+---
+
+### 15.213 --- 计算机系统简介
+
+---
+
+### 6.NULL --- 常用工具简介
+
+---
+
+### 计算机网络：CS144
+
+1. [check0](Notebook/CS144/PDF/check0.pdf)

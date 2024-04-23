@@ -27,14 +27,14 @@
 
 ### 操作系统
 
-1. [xv6-lab1]()
-2. [xv6-lab2]()
+1. [xv6-lab1](Notebook/操作系统/PDF/lab1%20util.pdf)
+2. [xv6-lab2](Notebook/操作系统/PDF/lab2%20syscall.pdf)
 
 ### 15.213 --- 计算机系统简介
 
-1. [datalab]()
-2. [bomblab]()
-3. [shelllab]()
+1. [datalab](Notebook/操作系统/PDF/datalab.pdf)
+2. [bomblab](Notebook/操作系统/PDF/bomblab.pdf)
+3. [shelllab](Notebook/操作系统/PDF/shelllab.pdf)
 
 ### 6.NULL --- 常用工具简介
 

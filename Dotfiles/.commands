@@ -1,0 +1,20 @@
+#!/bin/bash
+
+desktop="/mnt/c/Users/zeche/Desktop/"
+
+jp2win(){
+  cd $desktop
+}
+
+cp2win(){
+  cp $1 $desktop
+}
+
+mv2win(){
+  mv $1 $desktop
+}
+
+# Create a directory and cd into it
+mcd() {
+  mkdir "${1}" && cd "${1}"
+}
